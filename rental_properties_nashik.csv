@@ -1,0 +1,36 @@
+Title,Price,Deposit,Listing_Type,Property_Type,Locality,Area,Furnishing_Status,Number_of_Room,Number_of_Bathroom,Number_of_Parking,Floor_No,Security_Deposit
+,,,Rent   ,,Chetana Nagar   ,2500 Sq.Ft. (Built-up )  ,Unfurnished   ,3   ,1,Covered  Parking3,Additional RoomsServant Room,Other
+,,,Rent   ,,Balram Nagar   ,860 Sq.Ft. (Built-up )  ,Unfurnished   ,2   ,2,Covered  Parking1,Floor Number6,Tower/BlockB wing
+,,,Rent   ,,Gangapur   ,2000 Sq.Ft. (Built-up )  ,Semi-Furnished   ,4   ,3,Covered  Parking1,Available FromImmediately,Age of Property (Years)2-4
+,,,Rent   ,,Dindori   ,25000 Sq.Ft. (Plot )  ,,,,,,
+,,,Rent   ,,Chetana Nagar   ,400 Sq.Ft. (Built-up )  ,Unfurnished   ,1 Rk   ,1,Floor NumberGround,Available FromImmediately,Age of Property (Years)10+
+,,,Rent   ,,Ambad   ,315 Sq.Ft. (Built-up )  ,Unfurnished   ,1 Rk   ,,,,
+,,,Rent   ,,College Road   ,700 Sq.Ft. (Built-up )  ,Semi-Furnished   ,3   ,2,Covered  Parking1,Floor Number1,Other
+,,,Rent   ,,Chetana Nagar   ,1000 Sq.Ft. (Built-up )  ,Unfurnished   ,2   ,2,Covered  Parking1,Available FromImmediately,Age of Property (Years)8-10
+,,,Rent   ,,Swaminarayan Nagar   ,361 Sq.Ft. (Built-up )  ,Unfurnished   ,Covered  Parking1   ,Personal WashroomYes,Floor NumberGround floor,Age of Property (Years)0-1,Unit NoShop no 4
+,,,Rent   ,,Dgp Nagar   ,1425 Sq.Ft. (Built-up )  ,Unfurnished   ,Personal WashroomNo   ,Floor Number1,Unit No1,Lift AvailabilityYes,Age of Property (Years)0-1
+,,,Rent   ,,Indira Nagar   ,700 Sq.Ft. (Built-up )  ,Unfurnished   ,1   ,1,Floor NumberGround,Available FromImmediately,Age of Property (Years)10+
+,,,Rent   ,,Panchavati   ,980 Sq.Ft. (Built-up )  ,Available ForGirls   ,Available FromImmediately   ,Suited ForStudents,Food Charges IncludedNo,"Operating Since(Year""s)0-1",Electricity Charges IncludedYes
+,,,Property Maintenance1500-Quarterly   ,,CityNashik   ,LocalityNashik Road   ,"Rent13,500   ",Furnishing Status Semi-Furnished   ,Number of Rooms2,Number of Bathroom2,ViewGarden View,Other
+,,,Property Maintenance300-Quarterly   ,,CityNashik   ,LocalityJai Bhavani Road   ,"Rent5,500   ",Furnishing Status Unfurnished   ,Number of Rooms1,Number of Bathroom1,ViewCommunity View,Floor Number1
+,,,Rent   ,,Ashoka Marg   ,850 Sq.Ft. (Saleable )  ,Unfurnished   ,2   ,2,Covered  Parking1,Security DepositOther,Available FromImmediately
+,,,Rent   ,,Dwarka   ,750 Sq.Ft. (Built-up )  ,Furnished   ,2   ,2,ViewRoad View,Additional RoomsPooja Room,Other
+,,,Rent   ,,Indira Nagar   ,1000 Sq.Ft. (Built-up )  ,Semi-Furnished   ,2   ,2,Covered  Parking1,Floor Number1,Other
+,,,Rent   ,,Pathardi Phata   ,750 Sq.Ft. (Built-up )  ,Unfurnished   ,Personal WashroomYes   ,Floor Number0,Unit NoN/A,Open/Uncovered Parking1,Lift AvailabilityYes
+,,,Rent   ,,Indira Nagar   ,960 Sq.Ft. (Built-up )  ,Unfurnished   ,2   ,,,,
+,,,Property Maintenance10000-Yearly   ,,CityNashik   ,LocalityGondedumala   ,Rent1.5 L   ,ViewRoad View   ,Plot No623,Loan AvailableNo,,
+,,,Rent   ,,Mumbai Agra Road   ,1800 Sq.Ft. (Carpet )  ,Unfurnished   ,Age of Property (Years)2-4   ,Personal WashroomYes,Open/Uncovered Parking3,Security DepositOther,Deposit amount600000
+,,,Rent   ,,Rajiv Nagar   ,150 Sq.Ft. (Built-up )  ,,,,,,
+,,,Rent   ,,Balram Nagar   ,2000 Sq.Ft. (Built-up )  ,Unfurnished   ,3   ,3,ViewGarden View,Security DepositTwo Month,Available FromImmediately
+,,,Rent   ,,Janak Nagari   ,1400 Sq.Ft. (Built-up )  ,Semi-Furnished   ,3   ,2,ViewCommunity View,Available FromImmediately,Age of Property (Years)5-7
+,,,Rent   ,,Panchavati   ,300 Sq.Ft. (Built-up )  ,Unfurnished   ,Personal WashroomNo   ,Floor NumberGround,Security DepositOther,Lift AvailabilityNo,Age of Property (Years)5-7
+,,,Rent   ,,Uttara Nagar   ,1300 Sq.Ft. (Built-up )  ,Semi-Furnished   ,3   ,3,Covered  Parking1,Floor Number6,Tower/BlockA
+,,,Rent   ,,Indira Nagar   ,1000 Sq.Ft. (Built-up )  ,Unfurnished   ,2   ,2,Covered  Parking1,Floor Number1,Tower/BlockN/A
+,,,Rent   ,,Ashoka Marg   ,1150 Sq.Ft. (Carpet )  ,Unfurnished   ,2   ,2,Covered  Parking1,Floor Number4,Tower/Block402
+,,,Rent   ,,Parijat Nagar   ,800 Sq.Ft. (Carpet )  ,Semi-Furnished   ,3   ,1,Covered  Parking1,Security DepositOther,Available FromLater
+,,,Rent   ,,Mundhegaon   ,70000 Sq.Ft. (Plot )  ,,,,,,
+,,,Rent   ,,Sinnar   ,5 Acre (Plot )  ,ViewRoad View   ,Only available for Company LeaseYes   ,,,,
+,,,Rent   ,,NashiK-Pune Road   ,24000 Sq.Ft. (Plot )  ,FacingEast   ,,,,,
+,,,Property Maintenance5000-Monthly   ,,CityNashik   ,LocalityGondedumala   ,Rent1.5 L   ,Covered  Parking4   ,Personal WashroomYes,Unit No1,Power Back-upNo Back-up,Open/Uncovered Parking3
+,,,Rent   ,,Wadner Road   ,1350 Sq.Ft. (Built-up )  ,Available FromImmediately   ,Furnishing Status Semi-Furnished   ,Number of Rooms2,FacingNorth,FlooringSelect View,Floor Number02
+,,,Rent   ,,Malegaon   ,200 Sq.Ft. (Built-up )  ,Semi-Furnished   ,Office Space TypeSemi-Fitted   ,Personal WashroomYes,PantryNone,Floor Number1,Unit NoNA
